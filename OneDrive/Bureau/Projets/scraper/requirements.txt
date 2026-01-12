@@ -1,7 +1,0 @@
-requests   
-beautifulsoup4
-discord-webhook
-dotenv
-newspaper3k
-nltk
-lxml_html_clean
